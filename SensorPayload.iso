@@ -1,8 +1,8 @@
 /*
- * This program reads temperature and sends it over the rockBlock to the server.
+ * This program reads enviromental data and sends it over the rockBlock to the server.
  * Further instruction on wiring found in comments below.
  * 
- * Assembled by: Conner Wiench
+ * Assembled by: SAT-Comm team
  */
 
 #include <IridiumSBD.h>
