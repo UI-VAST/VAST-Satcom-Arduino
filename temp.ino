@@ -147,7 +147,7 @@ void loop()
     // 1: Outside Temp(Celsius), 2: Inside Temp(Celcius), 3: Pressure(Pascals), 4: Altitude(Meters)
 
     float floBuff;  // stores the values before they become a string.
-    char pay[81] = ""; // the payload sent through Rock Block
+    char pay[81] = "RB0012828"; // the payload sent through Rock Block
       
       char err; // Used in rockblock if/else message sent
   
